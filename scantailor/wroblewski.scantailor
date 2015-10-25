@@ -1,6 +1,6 @@
-<project outputDirectory="/root/mega.d/docs/ed/umb/yr2/wt/das/book/out" layoutDirection="LTR">
+<project outputDirectory="/root/mega.d/docs/ed/umb/yr2/wt/das/Wroblewski_Piotr_-_Algoritmy/scantailor/out" layoutDirection="LTR">
   <directories>
-    <directory path="/root/mega.d/docs/ed/umb/yr2/wt/das/book" id="1"/>
+    <directory path="/root/mega.d/docs/ed/umb/yr2/wt/das/Wroblewski_Piotr_-_Algoritmy/scantailor" id="1"/>
   </directories>
   <files>
     <file dirId="1" id="2" name="001.jpg"/>
@@ -927,7 +927,7 @@
     </image>
   </images>
   <pages>
-    <page imageId="3" subPage="right" id="4"/>
+    <page imageId="3" subPage="right" selected="selected" id="4"/>
     <page imageId="6" subPage="left" id="7"/>
     <page imageId="6" subPage="right" id="8"/>
     <page imageId="10" subPage="left" id="11"/>
@@ -964,7 +964,7 @@
     <page imageId="70" subPage="right" id="72"/>
     <page imageId="74" subPage="left" id="75"/>
     <page imageId="74" subPage="right" id="76"/>
-    <page imageId="78" subPage="left" selected="selected" id="79"/>
+    <page imageId="78" subPage="left" id="79"/>
     <page imageId="78" subPage="right" id="80"/>
     <page imageId="82" subPage="left" id="83"/>
     <page imageId="82" subPage="right" id="84"/>
