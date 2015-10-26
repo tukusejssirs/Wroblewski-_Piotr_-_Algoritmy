@@ -18,7 +18,7 @@ Alebo co sa ma vsetko spravit. :)
 - [x] nascannovanie knihy,
 - [x] oddelenie lavej a pravej strany z nascannovanej dvojstranky,
 - [x] korekcia sklonu textu na strane,
-- [ ] oznacenie obsahu strany (bez cmuh a okrajov),
+- [x] oznacenie obsahu strany (bez cmuh a okrajov),
 - [ ] nastavenie bielych okrajov okolo vybraneho obsahu strany,
 - [ ] vytvorenie  *.tif obrazkov opravenych podla vyssie uvedenych zmien,
 - [ ] vytvorenie .pdf subory z *.tif suborov;
