@@ -1,0 +1,55 @@
+KAPITOLA 1 Dříve než začneme
+
+Eukleidés samozřejmě svůj algoritmus nenavrhl přesně takto (místo funkce zbytku po dělení se
+využívalo následné odčítání). Ieho myšlenku však můžeme zapsat výše uvedeným způsobem, aniž
+by to ovlivnilo výsledek, který bude v každém případě stejný. Není to samozřejmě jediný algorit—
+mus, s nímž jsme se v životě setkali. Každý z nás nepochybně dokáže uvařit čaj:
+
+l zapnout rychlovarnou konvici;
+přivést potřebné množství vody k varu;
+vložit do hrnku sáček s čajem;
+zalít sáček vroucí vodou;
+osladit podle chuti;
+počkat, až se čaj dostatečně vyluhuje.
+
+Uvedený postup sice funguje, ale obsahuje několik slabých míst: co to znamená „potřebné množství
+vody“? Co se přesně myslí pokynem „osladit podle chuti“? Postup přípravy čaje má vlastnosti algo-
+ritmu (jak jej chápeme ve smyslu výše citovaných slovníkových definic). Chybí mu však přesnost, aby
+jej bylo možné uložit do nějakého stroje, který by si pak v každé situaci dokázal poradit s pokynem
+„připrav mi silný čaj“. (Jak například v praxi definovat podmínku, že se čaj „dostatečně vyluhoval“?)
+]aké vlastnosti by tedy měly splňovat algoritmy v kontextu informatiky? Na toto téma bychom
+mohli diskutovat značně dlouho, ale pokud se spokojíme s jistým zjednodušením, mohou nás
+uspokojit následující konkrétní požadavky.
+Každý algoritmus:
+
+l se vyznačuje vstupními daty (v množství nulovém nebo větším), která pocházejí z dobře de-
+
+finované množiny (např. Eukleidův algoritmus pracuje se dvěma celými čísly);
+
+. dává určitý výsledek (nemusí být nutně číselný);
+je přesně definovaný (každý krok algoritmu musí být jednoznačně určen);
+! je konečný (algoritmus musí někdy poskytnout výsledek — máme—li algoritmus A a vstupní
+
+data D, musíme být schopni přesně zjistit čas provedení T(A ));
+
+! lze jej aplikovat na řešení celé třídy úloh, a nikoli jen jedné konkrétní úlohy.
+
+Kromě toho se kvůli své netrpělivosti snažíme hledat efektivní algoritmy, tj. takové, které svou práci
+dokončí co nejrychleji a využívají co nejmenší množství paměti (k tomuto tématu se ještě vrátíme
+v kapitole 3). Než se však vrhneme na klávesnici, abychom začali do paměti počítače zadávat pro-
+gramy splňující uvedené požadavky, podívejme se ještě na algoritmiku z historické perspektivy.
+
+Kdysi dávno aneb střípky z historie
+algoritmických strojů
+
+Oba matematiky, jejichž jména jsme zmínili na začátku této kapitoly, dělí více než tisíc let. Mohli
+bychom se tedy snadno domnívat, že tento obor se dynamicky rozvíjel už v dávných dobách. Po-
+krok v oblasti algoritmiky však ve skutečnosti úzce souvisí s technickou revolucí, ke které došlo
+během posledních sotva dvou set let. Pokud však budeme informatiku a algoritmiku považovat
+za nedílný celek, který přirozeně vychází z početních systémů, pak bychom měli zmínit přínos
+Sumerů, kteří vynalezli počítací tabulky, vlastní kalendář i šedesátkový měrný systém (rozdělení
+dne na 24 hodin jsme převzali právě od nich). Víme také, že abakus neboli nejslavnější počitadlo
+v lidské historii vyvinuli Číňané. Obvykle si však neuvědomujeme, že k nějakému systému, který
+
+20
+
