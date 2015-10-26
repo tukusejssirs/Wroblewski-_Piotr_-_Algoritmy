@@ -29,6 +29,9 @@ Alebo co sa ma vsetko spravit. :)
 - [ ] ulozenie obrazov z *.tif suborov,
 - [ ] vlozenie obrazkov na spravne miesto vramci textu (pomocou programu `lowriter` alebo v texu).
 
+## Ked zistite bug, o ktorom sa nepise v [Knows Bugs](https://github.com/tukusejssirs/Wroblewski_Piotr_-_Algoritmy/blob/master/readme.md#known-bugs)?
+Ked zistite, ze som sa niekde pomylil abo ze niktora cast je necitatelna, prip. chybaju nejake pismenka (alebo iny druh bugu, ktory nesuvisi s chybami v *povodnom* texte), prosim, otvorte novu [issue](https://github.com/tukusejssirs/Wroblewski_Piotr_-_Algoritmy/issues) a co najpodobrobnejsie popiste dany bug, prip. uploadnite obrazok danej chyby.
+
 ## Known Bugs
 Alebo zname chyby.
 
