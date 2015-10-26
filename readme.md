@@ -3,10 +3,13 @@ Scannovanie a ocr-knutie danej knihy
 
 Do pozornosti ju davam hlavne Vam, @siduska, @diduska, @zorvar, @norton1119, @janchvojka, kedze je jedna z odporucanych knih na Algoritmy a struktura udajov (hoci v *kodoch* ma vela chyb, v algoritmoch/texte vraj nie su). :)
 
-## Programy / Dependencie
-Pouzivam [scantailor(https://github.com/scantailor/scantailor) na post-processing obrazkov. Tento program vie otvorit subor [000_wroblewski.scantailor](scantailor/000_wroblewski.scantailor), ktory je textovy subor v xml-kovom formate (teda ho viete citat, no len vyssie uvedeny program ho vie spravne spracovat).
-
-Dalej budem pouzivat program [tesseract](https://code.google.com/p/tesseract-ocr/) na konverziu obrazka na text.
+## Pouzite programy
+- `scantailor`
+  Pouzivam [scantailor(https://github.com/scantailor/scantailor) na post-processing obrazkov. Tento program vie otvorit subor [000_wroblewski.scantailor](scantailor/000_wroblewski.scantailor), ktory je textovy subor v xml-kovom formate (teda ho viete citat, no len vyssie uvedeny program ho vie spravne spracovat).
+- `tesseract`
+  Dalej budem pouzivat program [tesseract](https://code.google.com/p/tesseract-ocr/) na konverziu obrazka na text.
+- `exiftool`
+  Pomocou programu `exiftool` viem upravovat metadata roznych suborov (kukni i tento [link](http://askubuntu.com/questions/27381/how-to-edit-pdf-metadata-from-command-line)). V Debian-like distribuciach sa da nainstalovat pomocou `sudo apt-get -yq install libimage-exiftool-perl` a v Arch-like distribuciach `pacman -S --noconfirm perl-image-exiftool`.
 
 ## TODO
 
@@ -19,7 +22,7 @@ Alebo co sa ma vsetko spravit. :)
 - [ ] nastavenie bielych okrajov okolo vybraneho obsahu strany,
 - [ ] vytvorenie  *.tif obrazkov opravenych podla vyssie uvedenych zmien,
 - [ ] vytvorenie .pdf subory z *.tif suborov;
-- [ ] pridanie metadat do .pdf subory pomocou programu `pdftk`;
+- [ ] pridanie metadat do .pdf subory pomocou programu `exiftool`;
 - [ ] ocr-knutie *.tif suborov,
 - [ ] vytvorenie .txt suboru obsahujuceho iba vsetok text knihy,
 - [ ] ulozenie obrazov z *.tif suborov,
