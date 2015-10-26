@@ -23,6 +23,7 @@ Alebo co sa ma vsetko spravit. :)
 - [ ] vytvorenie  *.tif obrazkov opravenych podla vyssie uvedenych zmien,
 - [ ] vytvorenie .pdf subory z *.tif suborov;
 - [ ] pridanie metadat do .pdf subory pomocou programu `exiftool`;
+- [ ] opravenie tabuliek,
 - [ ] ocr-knutie *.tif suborov,
 - [ ] vytvorenie .txt suboru obsahujuceho iba vsetok text knihy,
 - [ ] ulozenie obrazov z *.tif suborov,
