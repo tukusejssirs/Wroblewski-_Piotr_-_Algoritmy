@@ -32,4 +32,6 @@ Alebo co sa ma vsetko spravit. :)
 ## Known Bugs
 Alebo zname chyby.
 
-- Ciara pod hlavickou chyba, pretoze je svedlo seda/siva a tak mi ju automaticky odstranoval `scantailor`. Riesenim je oznacit (citaj: oramuj) ju na kazdej strane ako obrazok, co sa mi zda ako kontraproduktivne, kedze mojim cielom nie je dostat dokonalu elektronicku kopiu vytlacenej knihy. ;)
+1. Ciara pod hlavickou chyba, pretoze je svedlo seda/siva a tak mi ju automaticky odstranoval `scantailor`. Riesenim je oznacit (citaj: oramuj) ju na kazdej strane ako obrazok, co sa mi zda ako kontraproduktivne, kedze mojim cielom nie je dostat dokonalu elektronicku kopiu vytlacenej knihy. ;)
+
+2. Pozadie za `kodmi` nie je sive/sede (alebo je, no len ciastocne) z tej istej priciny KB1. :)
