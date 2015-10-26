@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rek3", "rek3.vcproj", "{079BE6DC-ED60-4C2E-9483-5D481F9BA195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079BE6DC-ED60-4C2E-9483-5D481F9BA195}.Debug|Win32.ActiveCfg = Release|Win32
+		{079BE6DC-ED60-4C2E-9483-5D481F9BA195}.Debug|Win32.Build.0 = Release|Win32
+		{079BE6DC-ED60-4C2E-9483-5D481F9BA195}.Release|Win32.ActiveCfg = Release|Win32
+		{079BE6DC-ED60-4C2E-9483-5D481F9BA195}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

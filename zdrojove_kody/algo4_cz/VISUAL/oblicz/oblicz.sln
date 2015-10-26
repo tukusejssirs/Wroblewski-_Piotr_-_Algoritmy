@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "oblicz", "oblicz.vcproj", "{498AEBF5-5B1A-49ED-A008-5979170A5840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498AEBF5-5B1A-49ED-A008-5979170A5840}.Debug|Win32.ActiveCfg = Debug|Win32
+		{498AEBF5-5B1A-49ED-A008-5979170A5840}.Debug|Win32.Build.0 = Debug|Win32
+		{498AEBF5-5B1A-49ED-A008-5979170A5840}.Release|Win32.ActiveCfg = Release|Win32
+		{498AEBF5-5B1A-49ED-A008-5979170A5840}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bubble", "bubble.vcproj", "{423490EC-52E8-429D-A2AF-9A8D95A2AC63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{423490EC-52E8-429D-A2AF-9A8D95A2AC63}.Debug|Win32.ActiveCfg = Release|Win32
+		{423490EC-52E8-429D-A2AF-9A8D95A2AC63}.Debug|Win32.Build.0 = Release|Win32
+		{423490EC-52E8-429D-A2AF-9A8D95A2AC63}.Release|Win32.ActiveCfg = Release|Win32
+		{423490EC-52E8-429D-A2AF-9A8D95A2AC63}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bit_operations", "bit_operations.vcproj", "{AFA497DB-F2A9-44E7-99E6-406676085484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA497DB-F2A9-44E7-99E6-406676085484}.Debug|Win32.ActiveCfg = Release|Win32
+		{AFA497DB-F2A9-44E7-99E6-406676085484}.Debug|Win32.Build.0 = Release|Win32
+		{AFA497DB-F2A9-44E7-99E6-406676085484}.Release|Win32.ActiveCfg = Release|Win32
+		{AFA497DB-F2A9-44E7-99E6-406676085484}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

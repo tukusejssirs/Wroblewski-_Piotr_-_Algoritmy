@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sterta", "sterta.vcproj", "{506C338D-0B04-4833-9073-73C9C2DBF6FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{506C338D-0B04-4833-9073-73C9C2DBF6FC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{506C338D-0B04-4833-9073-73C9C2DBF6FC}.Debug|Win32.Build.0 = Debug|Win32
+		{506C338D-0B04-4833-9073-73C9C2DBF6FC}.Release|Win32.ActiveCfg = Release|Win32
+		{506C338D-0B04-4833-9073-73C9C2DBF6FC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
