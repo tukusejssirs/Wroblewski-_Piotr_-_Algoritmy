@@ -953,7 +953,7 @@
     <page imageId="50" subPage="left" id="51"/>
     <page imageId="50" subPage="right" id="52"/>
     <page imageId="54" subPage="left" id="55"/>
-    <page imageId="54" subPage="right" selected="selected" id="56"/>
+    <page imageId="54" subPage="right" id="56"/>
     <page imageId="58" subPage="left" id="59"/>
     <page imageId="58" subPage="right" id="60"/>
     <page imageId="62" subPage="left" id="63"/>
@@ -1145,7 +1145,7 @@
     <page imageId="434" subPage="left" id="435"/>
     <page imageId="434" subPage="right" id="436"/>
     <page imageId="438" subPage="left" id="439"/>
-    <page imageId="438" subPage="right" id="440"/>
+    <page imageId="438" subPage="right" selected="selected" id="440"/>
     <page imageId="442" subPage="left" id="443"/>
     <page imageId="442" subPage="right" id="444"/>
     <page imageId="446" subPage="left" id="447"/>
@@ -3750,7 +3750,7 @@
         </params>
       </image>
       <image id="414">
-        <params mode="auto">
+        <params mode="manual">
           <pages type="two-pages">
             <outline>
               <point x="0" y="0"/>
@@ -3760,8 +3760,8 @@
               <point x="0" y="0"/>
             </outline>
             <cutter1>
-              <p1 x="3932.43132471586" y="5436"/>
-              <p2 x="4003.592462789024" y="0"/>
+              <p1 x="4292.063606294503" y="14.47091584158409"/>
+              <p2 x="4222.836087025" y="5302.761757425742"/>
             </cutter1>
           </pages>
           <dependencies>
@@ -3838,7 +3838,7 @@
         </params>
       </image>
       <image id="430">
-        <params mode="auto">
+        <params mode="manual">
           <pages type="two-pages">
             <outline>
               <point x="0" y="0"/>
@@ -3848,8 +3848,8 @@
               <point x="0" y="0"/>
             </outline>
             <cutter1>
-              <p1 x="3842.423613536885" y="5436"/>
-              <p2 x="3913.584751610048" y="0"/>
+              <p1 x="4192.408617887805" y="159.1800742574258"/>
+              <p2 x="4123.181098618303" y="5447.470915841584"/>
             </cutter1>
           </pages>
           <dependencies>
@@ -3904,7 +3904,7 @@
         </params>
       </image>
       <image id="442">
-        <params mode="auto">
+        <params mode="manual">
           <pages type="two-pages">
             <outline>
               <point x="0" y="0"/>
@@ -3914,8 +3914,8 @@
               <point x="0" y="0"/>
             </outline>
             <cutter1>
-              <p1 x="3859.567256336723" y="5436"/>
-              <p2 x="3883.286431398058" y="0"/>
+              <p1 x="4133.799930906282" y="72.35457920792078"/>
+              <p2 x="4110.725262722545" y="5360.645420792079"/>
             </cutter1>
           </pages>
           <dependencies>
@@ -8404,13 +8404,13 @@
         </params>
       </page>
       <page id="415">
-        <params mode="auto" angle="-0.1875">
+        <params mode="auto" angle="-0.25">
           <dependencies>
             <rotation degrees="0"/>
             <page-outline>
               <point x="0" y="0"/>
-              <point x="4003.592576134346" y="0"/>
-              <point x="3932.470654354019" y="5433"/>
+              <point x="4292.253117883856" y="0"/>
+              <point x="4221.131196103528" y="5433"/>
               <point x="0" y="5433"/>
               <point x="0" y="0"/>
             </page-outline>
@@ -8423,8 +8423,8 @@
             <rotation degrees="0"/>
             <page-outline>
               <point x="7795" y="0"/>
-              <point x="4003.592576134346" y="0"/>
-              <point x="3932.470654354019" y="5433"/>
+              <point x="4292.253117883856" y="0"/>
+              <point x="4221.131196103528" y="5433"/>
               <point x="7795" y="5433"/>
               <point x="7795" y="0"/>
             </page-outline>
@@ -8521,8 +8521,8 @@
             <rotation degrees="0"/>
             <page-outline>
               <point x="0" y="0"/>
-              <point x="3913.58472389813" y="0"/>
-              <point x="3842.462802117802" y="5433"/>
+              <point x="4194.492471304106" y="0"/>
+              <point x="4123.370552661375" y="5433"/>
               <point x="0" y="5433"/>
               <point x="0" y="0"/>
             </page-outline>
@@ -8530,13 +8530,13 @@
         </params>
       </page>
       <page id="432">
-        <params mode="auto" angle="-0.375">
+        <params mode="auto" angle="-0.3125">
           <dependencies>
             <rotation degrees="0"/>
             <page-outline>
               <point x="7795" y="0"/>
-              <point x="3913.58472389813" y="0"/>
-              <point x="3842.462802117802" y="5433"/>
+              <point x="4194.492471304106" y="0"/>
+              <point x="4123.370552661375" y="5433"/>
               <point x="7795" y="5433"/>
               <point x="7795" y="0"/>
             </page-outline>
@@ -8605,8 +8605,8 @@
             <rotation degrees="0"/>
             <page-outline>
               <point x="0" y="0"/>
-              <point x="3883.28636684208" y="0"/>
-              <point x="3859.580316107851" y="5433"/>
+              <point x="4134.115605336574" y="1.77635683940025e-15"/>
+              <point x="4110.409554602345" y="5433"/>
               <point x="0" y="5433"/>
               <point x="0" y="0"/>
             </page-outline>
@@ -8619,8 +8619,8 @@
             <rotation degrees="0"/>
             <page-outline>
               <point x="7795" y="0"/>
-              <point x="3883.28636684208" y="0"/>
-              <point x="3859.580316107851" y="5433"/>
+              <point x="4134.115605336574" y="1.77635683940025e-15"/>
+              <point x="4110.409554602345" y="5433"/>
               <point x="7795" y="5433"/>
               <point x="7795" y="0"/>
             </page-outline>
@@ -11242,9 +11242,9 @@
         </params>
       </page>
       <page id="83">
-        <params mode="auto">
-          <content-rect width="3448" x="32" y="284" height="4892"/>
-          <content-size-mm width="145.9653333333334" height="207.0946666666667"/>
+        <params mode="manual">
+          <content-rect width="3296.830610203338" x="183.1693897966672" y="284" height="4892.000000000014"/>
+          <content-size-mm width="139.5658291652747" height="207.0946666666673"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="57.46927190520019"/>
@@ -11287,9 +11287,9 @@
         </params>
       </page>
       <page id="88">
-        <params mode="auto">
-          <content-rect width="3028" x="308.0000000000005" y="260" height="4916"/>
-          <content-size-mm width="128.1853333333333" height="208.1106666666667"/>
+        <params mode="manual">
+          <content-rect width="3170.05627415743" x="165.9437258425703" y="259.9999999999998" height="4916"/>
+          <content-size-mm width="134.1990489393312" height="208.1106666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3825.69457149404" y="12.51960090074015"/>
@@ -11332,9 +11332,9 @@
         </params>
       </page>
       <page id="95">
-        <params mode="auto">
-          <content-rect width="3040.000000000001" x="436.0000000000001" y="236.0000000000001" height="4672.000000000001"/>
-          <content-size-mm width="128.6933333333334" height="197.7813333333334"/>
+        <params mode="manual">
+          <content-rect width="3040.000000000001" x="435.9999999999977" y="236.0000000000001" height="4947.793360666551"/>
+          <content-size-mm width="128.6933333333334" height="209.4565856015507"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="4.072342678501133"/>
@@ -11362,9 +11362,9 @@
         </params>
       </page>
       <page id="99">
-        <params mode="auto">
-          <content-rect width="3516" x="24" y="88" height="5052"/>
-          <content-size-mm width="148.844" height="213.868"/>
+        <params mode="manual">
+          <content-rect width="3213.190866029854" x="326.8091339701446" y="88" height="5052"/>
+          <content-size-mm width="136.0250799952638" height="213.868"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="66.20385219953042"/>
@@ -11377,9 +11377,9 @@
         </params>
       </page>
       <page id="100">
-        <params mode="auto">
-          <content-rect width="3020" x="312" y="232" height="4664"/>
-          <content-size-mm width="127.8466666666666" height="197.4426666666667"/>
+        <params mode="manual">
+          <content-rect width="3020" x="312" y="232" height="4940.0082642643"/>
+          <content-size-mm width="127.8466666666666" height="209.1270165205221"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3801.157145231422" y="3.552713678800501e-15"/>
@@ -11392,9 +11392,9 @@
         </params>
       </page>
       <page id="103">
-        <params mode="auto">
-          <content-rect width="3516" x="28" y="260" height="2892"/>
-          <content-size-mm width="148.844" height="122.428"/>
+        <params mode="manual">
+          <content-rect width="3159.528562927609" x="384.4714370723866" y="260" height="4951.612747529345"/>
+          <content-size-mm width="133.7533758306021" height="209.6182729787423"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="33.10224043561914"/>
@@ -11452,9 +11452,9 @@
         </params>
       </page>
       <page id="111">
-        <params mode="auto">
-          <content-rect width="3456" x="32" y="308" height="4904"/>
-          <content-size-mm width="146.304" height="207.6026666666667"/>
+        <params mode="manual">
+          <content-rect width="3191.950919460861" x="296.0490805391466" y="308" height="4904.000000000021"/>
+          <content-size-mm width="135.1259222571765" height="207.6026666666675"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="89.59063374277068"/>
@@ -11467,9 +11467,9 @@
         </params>
       </page>
       <page id="112">
-        <params mode="auto">
-          <content-rect width="3556.000000000001" x="324.000000000001" y="284.0000000000001" height="4992.000000000001"/>
-          <content-size-mm width="150.5373333333334" height="211.3280000000001"/>
+        <params mode="manual">
+          <content-rect width="3295.961450841777" x="324.0000000000011" y="284.0000000000001" height="4992.000000000001"/>
+          <content-size-mm width="139.529034752302" height="211.3280000000001"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3902.476582254544" y="4.172896612476205"/>
@@ -11482,9 +11482,9 @@
         </params>
       </page>
       <page id="115">
-        <params mode="auto">
-          <content-rect width="3432" x="32" y="272" height="4892"/>
-          <content-size-mm width="145.288" height="207.0946666666667"/>
+        <params mode="manual">
+          <content-rect width="3240.909377885191" x="223.0906221148009" y="272" height="4891.999999999991"/>
+          <content-size-mm width="137.1984969971397" height="207.0946666666663"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="61.58265853788041"/>
@@ -11512,9 +11512,9 @@
         </params>
       </page>
       <page id="119">
-        <params mode="auto">
-          <content-rect width="3524.000000000001" x="24.00000000000001" y="56" height="5124.000000000001"/>
-          <content-size-mm width="149.1826666666667" height="216.9160000000001"/>
+        <params mode="manual">
+          <content-rect width="3166.46605774427" x="381.5339422557281" y="246.684769203055" height="4933.315230796946"/>
+          <content-size-mm width="134.0470631111741" height="208.8436781037374"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="49.65257287825133"/>
@@ -11527,9 +11527,9 @@
         </params>
       </page>
       <page id="120">
-        <params mode="auto">
-          <content-rect width="3016" x="292.0000000000005" y="252" height="4476"/>
-          <content-size-mm width="127.6773333333334" height="189.484"/>
+        <params mode="manual">
+          <content-rect width="3016" x="292.0000000000005" y="252" height="4981.077958090369"/>
+          <content-size-mm width="127.6773333333334" height="210.865633559159"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3771.620710709773" y="0"/>
@@ -11542,9 +11542,9 @@
         </params>
       </page>
       <page id="123">
-        <params mode="auto">
-          <content-rect width="3440" x="28" y="236" height="4900"/>
-          <content-size-mm width="145.6266666666667" height="207.4333333333333"/>
+        <params mode="manual">
+          <content-rect width="3107.325196442346" x="360.6748035576584" y="236" height="4900"/>
+          <content-size-mm width="131.5434333160593" height="207.4333333333333"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="32.57864472531486"/>
@@ -11557,9 +11557,9 @@
         </params>
       </page>
       <page id="124">
-        <params mode="auto">
-          <content-rect width="3532" x="272.0000000000005" y="244" height="4916"/>
-          <content-size-mm width="149.5213333333334" height="208.1106666666667"/>
+        <params mode="manual">
+          <content-rect width="3168.405705250861" x="272.0000000000007" y="244.0000000000004" height="4916.000000000007"/>
+          <content-size-mm width="134.1291748556198" height="208.110666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3825.658022677198" y="0"/>
@@ -11572,9 +11572,9 @@
         </params>
       </page>
       <page id="127">
-        <params mode="auto">
-          <content-rect width="3388" x="216" y="268" height="4484"/>
-          <content-size-mm width="143.4253333333334" height="189.8226666666667"/>
+        <params mode="manual">
+          <content-rect width="3109.483622157501" x="494.516377842499" y="268" height="5001.244701707498"/>
+          <content-size-mm width="131.6348066713342" height="211.7193590389508"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="58.38498607911213"/>
@@ -11602,9 +11602,9 @@
         </params>
       </page>
       <page id="131">
-        <params mode="auto">
-          <content-rect width="3528" x="28" y="236" height="4452"/>
-          <content-size-mm width="149.352" height="188.468"/>
+        <params mode="manual">
+          <content-rect width="3139.842212965621" x="416.1577870343765" y="236" height="5006.511124334823"/>
+          <content-size-mm width="132.9199870155446" height="211.9423042635075"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="33.10224043561914"/>
@@ -11617,9 +11617,9 @@
         </params>
       </page>
       <page id="132">
-        <params mode="auto">
-          <content-rect width="3456" x="292.0000000000005" y="256" height="4912"/>
-          <content-size-mm width="146.304" height="207.9413333333334"/>
+        <params mode="manual">
+          <content-rect width="3132.434433098358" x="292.0000000000005" y="256" height="4912"/>
+          <content-size-mm width="132.6063910011638" height="207.9413333333334"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3771.620710709773" y="0"/>
@@ -11632,9 +11632,9 @@
         </params>
       </page>
       <page id="135">
-        <params mode="auto">
-          <content-rect width="3512" x="24" y="36" height="5312"/>
-          <content-size-mm width="148.6746666666667" height="224.8746666666667"/>
+        <params mode="manual">
+          <content-rect width="3093.099656112913" x="498.2268044004963" y="178.2680413201489" height="5011.656357213021"/>
+          <content-size-mm width="130.9412187754466" height="212.1601191220179"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="20.68906029022779"/>
@@ -11647,9 +11647,9 @@
         </params>
       </page>
       <page id="136">
-        <params mode="auto">
-          <content-rect width="3024" x="300.0000000000005" y="320" height="4548"/>
-          <content-size-mm width="128.016" height="192.532"/>
+        <params mode="manual">
+          <content-rect width="3024" x="300.0000000000005" y="320" height="4953.799966699612"/>
+          <content-size-mm width="128.016" height="209.7108652569503"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3765.275398996999" y="0"/>
@@ -11662,9 +11662,9 @@
         </params>
       </page>
       <page id="139">
-        <params mode="auto">
-          <content-rect width="3532" x="32" y="292" height="4904"/>
-          <content-size-mm width="149.5213333333333" height="207.6026666666667"/>
+        <params mode="manual">
+          <content-rect width="3137.426240086661" x="426.5737599133422" y="291.9999999999995" height="4904"/>
+          <content-size-mm width="132.8177108303353" height="207.6026666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="126.1516378777622"/>
@@ -11677,9 +11677,9 @@
         </params>
       </page>
       <page id="140">
-        <params mode="auto">
-          <content-rect width="3400" x="268.0000000000005" y="428" height="4912"/>
-          <content-size-mm width="143.9333333333333" height="207.9413333333333"/>
+        <params mode="manual">
+          <content-rect width="3157.668699558292" x="268.0000000000005" y="428" height="4911.999999999981"/>
+          <content-size-mm width="133.6746416146344" height="207.9413333333325"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3700.854975034214" y="-5.684341886080801e-14"/>
@@ -11736,9 +11736,9 @@
         </params>
       </page>
       <page id="148">
-        <params mode="auto">
-          <content-rect width="3092" x="244" y="604" height="4576"/>
-          <content-size-mm width="130.8946666666667" height="193.7173333333334"/>
+        <params mode="manual">
+          <content-rect width="3518.145772562346" x="244" y="604" height="4576"/>
+          <content-size-mm width="148.9348377051394" height="193.7173333333334"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3777.179626284571" y="12.22507427366172"/>
@@ -11766,9 +11766,9 @@
         </params>
       </page>
       <page id="152">
-        <params mode="auto">
-          <content-rect width="3020" x="244" y="248" height="4912"/>
-          <content-size-mm width="127.8466666666667" height="207.9413333333334"/>
+        <params mode="manual">
+          <content-rect width="3154.159421285008" x="109.8405787149918" y="248" height="4912"/>
+          <content-size-mm width="133.5260821677319" height="207.9413333333334"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3765.694239080888" y="12.3232495711485"/>
@@ -11781,9 +11781,9 @@
         </params>
       </page>
       <page id="155">
-        <params mode="auto">
-          <content-rect width="3680" x="28" y="236" height="5036"/>
-          <content-size-mm width="155.7866666666667" height="213.1906666666667"/>
+        <params mode="manual">
+          <content-rect width="3126.652230266622" x="581.3477697333897" y="236" height="5036"/>
+          <content-size-mm width="132.361611081287" height="213.1906666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="21.5088256279343"/>
@@ -11841,9 +11841,9 @@
         </params>
       </page>
       <page id="163">
-        <params mode="auto">
-          <content-rect width="3576.000000000001" x="24.00000000000001" y="64.00000000000001" height="5080.000000000001"/>
-          <content-size-mm width="151.3840000000001" height="215.0533333333334"/>
+        <params mode="manual">
+          <content-rect width="3107.549813655734" x="492.450186344267" y="64.00000000000001" height="5080.000000000001"/>
+          <content-size-mm width="131.5529421114261" height="215.0533333333334"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="45.87634527779303"/>
@@ -11871,9 +11871,9 @@
         </params>
       </page>
       <page id="167">
-        <params mode="auto">
-          <content-rect width="2148" x="572" y="240" height="4580"/>
-          <content-size-mm width="90.932" height="193.8866666666667"/>
+        <params mode="manual">
+          <content-rect width="3120.454424778136" x="572" y="240" height="4946.663143768806"/>
+          <content-size-mm width="132.0992373156078" height="209.4087397528795"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="67.77462874741323"/>
@@ -11901,9 +11901,9 @@
         </params>
       </page>
       <page id="171">
-        <params mode="auto">
-          <content-rect width="3008" x="564" y="936" height="3908"/>
-          <content-size-mm width="127.3386666666667" height="165.4386666666667"/>
+        <params mode="manual">
+          <content-rect width="3008" x="564" y="248.3505025665551" height="4967.138306391738"/>
+          <content-size-mm width="127.3386666666667" height="210.2755216372503"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="20.8526858808091"/>
@@ -11931,9 +11931,9 @@
         </params>
       </page>
       <page id="175">
-        <params mode="auto">
-          <content-rect width="3024" x="568" y="256" height="4600"/>
-          <content-size-mm width="128.016" height="194.7333333333333"/>
+        <params mode="manual">
+          <content-rect width="3024" x="568.0000000000023" y="256" height="4946.452173913043"/>
+          <content-size-mm width="128.016" height="209.3998086956522"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="0"/>
@@ -11946,9 +11946,9 @@
         </params>
       </page>
       <page id="176">
-        <params mode="auto">
-          <content-rect width="3020" x="272" y="300" height="4464"/>
-          <content-size-mm width="127.8466666666667" height="188.976"/>
+        <params mode="manual">
+          <content-rect width="3099.325024228861" x="272" y="300" height="4924.085140527395"/>
+          <content-size-mm width="131.2047593590218" height="208.4529376156597"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3735.528229806509" y="-1.4210854715202e-14"/>
@@ -11961,9 +11961,9 @@
         </params>
       </page>
       <page id="179">
-        <params mode="auto">
-          <content-rect width="3564.000000000001" x="24.00000000000001" y="280.0000000000001" height="4904.000000000001"/>
-          <content-size-mm width="150.8760000000001" height="207.6026666666667"/>
+        <params mode="manual">
+          <content-rect width="3051.803081844593" x="536.1969181554127" y="280.0000000000001" height="4904.000000000001"/>
+          <content-size-mm width="129.1929971314211" height="207.6026666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="4.170517429455928"/>
@@ -11976,9 +11976,9 @@
         </params>
       </page>
       <page id="180">
-        <params mode="auto">
-          <content-rect width="3028.000000000001" x="252.0000000000005" y="328.0000000000001" height="4668.000000000001"/>
-          <content-size-mm width="128.1853333333334" height="197.6120000000001"/>
+        <params mode="manual">
+          <content-rect width="3027.99999999999" x="252.0000000000005" y="328.0000000000001" height="4922.025905952702"/>
+          <content-size-mm width="128.1853333333329" height="208.3657633519978"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3735.481556086825" y="0"/>
@@ -11991,9 +11991,9 @@
         </params>
       </page>
       <page id="183">
-        <params mode="auto">
-          <content-rect width="3588" x="24" y="40" height="2984"/>
-          <content-size-mm width="151.892" height="126.3226666666667"/>
+        <params mode="manual">
+          <content-rect width="3097.579388747406" x="514.4206112525933" y="253.5702661906452" height="4945.682445010365"/>
+          <content-size-mm width="131.1308607903068" height="209.3672235054388"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="25.0231684686132"/>
@@ -12006,9 +12006,9 @@
         </params>
       </page>
       <page id="184">
-        <params mode="auto">
-          <content-rect width="3120" x="252" y="576" height="4580"/>
-          <content-size-mm width="132.08" height="193.8866666666667"/>
+        <params mode="manual">
+          <content-rect width="3467.234835760747" x="252" y="576" height="4580"/>
+          <content-size-mm width="146.779608047205" height="193.8866666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3741.620787904652" y="0"/>
@@ -12021,9 +12021,9 @@
         </params>
       </page>
       <page id="187">
-        <params mode="auto">
-          <content-rect width="3152" x="632" y="532" height="4624"/>
-          <content-size-mm width="133.4346666666667" height="195.7493333333333"/>
+        <params mode="manual">
+          <content-rect width="3152" x="632" y="229.6949501026697" height="4926.305049897326"/>
+          <content-size-mm width="133.4346666666666" height="208.5469137789868"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="56.76954011873041"/>
@@ -12036,9 +12036,9 @@
         </params>
       </page>
       <page id="188">
-        <params mode="auto">
-          <content-rect width="3560" x="267.9999999999995" y="248" height="4684"/>
-          <content-size-mm width="150.7066666666667" height="198.2893333333333"/>
+        <params mode="manual">
+          <content-rect width="3165.70586611369" x="267.9999999999998" y="248" height="4936.348245687238"/>
+          <content-size-mm width="134.0148816654795" height="208.9720757340931"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3850.855063020841" y="8.27197720752107"/>
@@ -12051,9 +12051,9 @@
         </params>
       </page>
       <page id="191">
-        <params mode="auto">
-          <content-rect width="3148" x="700" y="512" height="4316"/>
-          <content-size-mm width="133.2653333333334" height="182.7106666666667"/>
+        <params mode="manual">
+          <content-rect width="3187.530761902473" x="660.4692380975275" y="195.7539047802194" height="4972.210647581041"/>
+          <content-size-mm width="134.9388022538714" height="210.4902507475974"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="22.32595222573694"/>
@@ -12081,9 +12081,9 @@
         </params>
       </page>
       <page id="195">
-        <params mode="auto">
-          <content-rect width="3712" x="148" y="224" height="4676"/>
-          <content-size-mm width="157.1413333333333" height="197.9506666666667"/>
+        <params mode="manual">
+          <content-rect width="3198.517905572451" x="661.4820944275407" y="223.999999999999" height="4960.390083067561"/>
+          <content-size-mm width="135.4039246692337" height="209.9898468498601"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="17.8616437058358"/>
@@ -12096,9 +12096,9 @@
         </params>
       </page>
       <page id="196">
-        <params mode="auto">
-          <content-rect width="3024" x="260" y="256" height="4672"/>
-          <content-size-mm width="128.016" height="197.7813333333333"/>
+        <params mode="manual">
+          <content-rect width="3024" x="260" y="256" height="4941.325046197957"/>
+          <content-size-mm width="128.016" height="209.1827602890468"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3724.966820923755" y="-1.4210854715202e-14"/>
@@ -12171,9 +12171,9 @@
         </params>
       </page>
       <page id="207">
-        <params mode="auto">
-          <content-rect width="3816" x="28" y="76" height="5100"/>
-          <content-size-mm width="161.5440000000001" height="215.9"/>
+        <params mode="manual">
+          <content-rect width="3147.11444159361" x="696.8855584063872" y="76" height="5100"/>
+          <content-size-mm width="133.2278446941295" height="215.9"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="62.05062409373939"/>
@@ -12201,9 +12201,9 @@
         </params>
       </page>
       <page id="211">
-        <params mode="auto">
-          <content-rect width="3020" x="896" y="552" height="4624"/>
-          <content-size-mm width="127.8466666666667" height="195.7493333333334"/>
+        <params mode="manual">
+          <content-rect width="3020" x="896" y="259.2137755671475" height="4916.786224432848"/>
+          <content-size-mm width="127.8466666666667" height="208.1439501676572"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="27.18379443144073"/>
@@ -12216,9 +12216,9 @@
         </params>
       </page>
       <page id="212">
-        <params mode="auto">
-          <content-rect width="3016.000000000001" x="260.000000000001" y="604.0000000000001" height="4632.000000000001"/>
-          <content-size-mm width="127.6773333333334" height="196.0880000000001"/>
+        <params mode="manual">
+          <content-rect width="3016.000000000001" x="260.0000000000009" y="318.0440627356378" height="4917.955937264363"/>
+          <content-size-mm width="127.6773333333334" height="208.1934680108581"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3641.28051734056" y="0"/>
@@ -12261,9 +12261,9 @@
         </params>
       </page>
       <page id="219">
-        <params mode="auto">
-          <content-rect width="3832" x="28" y="52.00000000000001" height="5076"/>
-          <content-size-mm width="162.2213333333333" height="214.884"/>
+        <params mode="manual">
+          <content-rect width="3031.536301588955" x="828.46369841105" y="52.00000000000001" height="5076"/>
+          <content-size-mm width="128.3350367672658" height="214.884"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="35.72124727576759"/>
@@ -12381,9 +12381,9 @@
         </params>
       </page>
       <page id="235">
-        <params mode="auto">
-          <content-rect width="3812" x="28" y="56" height="5144"/>
-          <content-size-mm width="161.3746666666667" height="217.7626666666667"/>
+        <params mode="manual">
+          <content-rect width="3106.071817545553" x="733.9281824544344" y="286.0215425975123" height="4913.97845740248"/>
+          <content-size-mm width="131.4903736094284" height="208.0250880300383"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="40.18818027857574"/>
@@ -12426,9 +12426,9 @@
         </params>
       </page>
       <page id="240">
-        <params mode="auto">
-          <content-rect width="3448" x="504.0000000000005" y="308" height="4644"/>
-          <content-size-mm width="145.9653333333333" height="196.596"/>
+        <params mode="manual">
+          <content-rect width="3060.013714370786" x="504.0000000000005" y="308.0000000000006" height="4921.133061163724"/>
+          <content-size-mm width="129.5405805750299" height="208.327966255931"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3970.940393607259" y="0"/>
@@ -12441,9 +12441,9 @@
         </params>
       </page>
       <page id="243">
-        <params mode="auto">
-          <content-rect width="3828.000000000001" x="28.00000000000001" y="48.00000000000001" height="5160.000000000001"/>
-          <content-size-mm width="162.0520000000001" height="218.4400000000001"/>
+        <params mode="manual">
+          <content-rect width="3064.769275196723" x="791.2307248032616" y="286.5096015010192" height="4921.490398498888"/>
+          <content-size-mm width="129.7418993166613" height="208.3430935364529"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="53.18629281386121"/>
@@ -12471,9 +12471,9 @@
         </params>
       </page>
       <page id="247">
-        <params mode="auto">
-          <content-rect width="3780" x="80" y="296" height="4904"/>
-          <content-size-mm width="160.02" height="207.6026666666667"/>
+        <params mode="manual">
+          <content-rect width="3051.453746043468" x="808.5462539565344" y="296" height="4904"/>
+          <content-size-mm width="129.1782085825068" height="207.6026666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="31.25529127873999"/>
@@ -12501,9 +12501,9 @@
         </params>
       </page>
       <page id="251">
-        <params mode="auto">
-          <content-rect width="3016" x="856" y="568" height="4628"/>
-          <content-size-mm width="127.6773333333333" height="195.9186666666667"/>
+        <params mode="manual">
+          <content-rect width="3016" x="856.0000000000002" y="267.5609794694681" height="4928.439020530534"/>
+          <content-size-mm width="127.6773333333333" height="208.6372518691259"/>
           <dependencies>
             <rotated-page-outline>
               <point x="29.63227129021821" y="0"/>
@@ -12516,9 +12516,9 @@
         </params>
       </page>
       <page id="252">
-        <params mode="auto">
-          <content-rect width="3472.000000000001" x="236.0000000000014" y="260.0000000000001" height="4908.000000000001"/>
-          <content-size-mm width="146.9813333333334" height="207.7720000000001"/>
+        <params mode="manual">
+          <content-rect width="3164.687500072888" x="236.0000000000014" y="260.0000000000009" height="4908.000000000003"/>
+          <content-size-mm width="133.971770836419" height="207.7720000000002"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3731.593615283807" y="4.07053879784632"/>
@@ -12531,9 +12531,9 @@
         </params>
       </page>
       <page id="255">
-        <params mode="auto">
-          <content-rect width="3760" x="100" y="216" height="4952"/>
-          <content-size-mm width="159.1733333333333" height="209.6346666666667"/>
+        <params mode="manual">
+          <content-rect width="3088.523582561677" x="771.4764174383217" y="216" height="4952"/>
+          <content-size-mm width="130.7474983284443" height="209.6346666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="17.86028333180315"/>
@@ -12546,9 +12546,9 @@
         </params>
       </page>
       <page id="256">
-        <params mode="auto">
-          <content-rect width="3012" x="240" y="512" height="4656"/>
-          <content-size-mm width="127.508" height="197.104"/>
+        <params mode="manual">
+          <content-rect width="3051.603645777401" x="240" y="250.6159378691624" height="4917.38406213084"/>
+          <content-size-mm width="129.1845543379099" height="208.1692586302056"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3701.570638491295" y="-1.4210854715202e-14"/>
@@ -12561,9 +12561,9 @@
         </params>
       </page>
       <page id="259">
-        <params mode="auto">
-          <content-rect width="3784" x="64" y="224" height="4980"/>
-          <content-size-mm width="160.1893333333333" height="210.82"/>
+        <params mode="manual">
+          <content-rect width="3034.750525844268" x="813.2494741557359" y="224" height="4980"/>
+          <content-size-mm width="128.471105594074" height="210.82"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="8.930162918105536"/>
@@ -12591,9 +12591,9 @@
         </params>
       </page>
       <page id="263">
-        <params mode="auto">
-          <content-rect width="3836.000000000001" x="28.00000000000001" y="92" height="5068.000000000001"/>
-          <content-size-mm width="162.3906666666667" height="214.5453333333334"/>
+        <params mode="manual">
+          <content-rect width="3109.012180513786" x="754.9878194862224" y="163.8998942349011" height="4996.100105765101"/>
+          <content-size-mm width="131.6148489750836" height="211.501571144056"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="80.37248713669081"/>
@@ -12621,9 +12621,9 @@
         </params>
       </page>
       <page id="267">
-        <params mode="auto">
-          <content-rect width="3820" x="28" y="56" height="5128"/>
-          <content-size-mm width="161.7133333333333" height="217.0853333333333"/>
+        <params mode="manual">
+          <content-rect width="3034.754483394642" x="813.2455166053567" y="222.5672307950757" height="4961.432769204925"/>
+          <content-size-mm width="128.4712731303732" height="210.0339872296751"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="40.18511947645858"/>
@@ -12636,9 +12636,9 @@
         </params>
       </page>
       <page id="268">
-        <params mode="auto">
-          <content-rect width="3468" x="248.0000000000005" y="272" height="4912"/>
-          <content-size-mm width="146.812" height="207.9413333333334"/>
+        <params mode="manual">
+          <content-rect width="3191.800050957683" x="129.6285932675812" y="271.9999999999999" height="4912"/>
+          <content-size-mm width="135.1195354905419" height="207.9413333333334"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3743.177110135119" y="12.11380122384975"/>
@@ -12651,9 +12651,9 @@
         </params>
       </page>
       <page id="271">
-        <params mode="auto">
-          <content-rect width="3424" x="412" y="272" height="4900"/>
-          <content-size-mm width="144.9493333333334" height="207.4333333333333"/>
+        <params mode="manual">
+          <content-rect width="3130.760878084674" x="705.2391219153283" y="272" height="4900"/>
+          <content-size-mm width="132.5355438389179" height="207.4333333333333"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="35.72022662955669"/>
@@ -12711,9 +12711,9 @@
         </params>
       </page>
       <page id="279">
-        <params mode="auto">
-          <content-rect width="3816" x="24" y="28" height="5228"/>
-          <content-size-mm width="161.544" height="221.3186666666667"/>
+        <params mode="manual">
+          <content-rect width="3185.06066286793" x="654.9393371320643" y="240.9420262820717" height="5015.057973717925"/>
+          <content-size-mm width="134.8342347280757" height="212.3041208873921"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="8.864712340501386"/>
@@ -12741,9 +12741,9 @@
         </params>
       </page>
       <page id="283">
-        <params mode="auto">
-          <content-rect width="3848" x="24" y="40" height="5092"/>
-          <content-size-mm width="162.8986666666667" height="215.5613333333333"/>
+        <params mode="manual">
+          <content-rect width="3096.915640892205" x="775.0843591077901" y="206.029174118564" height="4925.970825881431"/>
+          <content-size-mm width="131.1027621311034" height="208.5327649623139"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="22.32510215162953"/>
@@ -12801,9 +12801,9 @@
         </params>
       </page>
       <page id="291">
-        <params mode="auto">
-          <content-rect width="3796" x="24" y="40" height="5108"/>
-          <content-size-mm width="160.6973333333333" height="216.2386666666667"/>
+        <params mode="manual">
+          <content-rect width="3044.938139841827" x="775.0618601581796" y="182.3064577141814" height="4965.693542285826"/>
+          <content-size-mm width="128.902381253304" height="210.2143599567666"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="22.16168872814271"/>
@@ -12816,9 +12816,9 @@
         </params>
       </page>
       <page id="292">
-        <params mode="auto">
-          <content-rect width="3016.000000000001" x="280.0000000000005" y="532.0000000000001" height="4632.000000000001"/>
-          <content-size-mm width="127.6773333333334" height="196.0880000000001"/>
+        <params mode="manual">
+          <content-rect width="3063.279072107052" x="280.0000000000007" y="208.9263406018192" height="4955.073659398183"/>
+          <content-size-mm width="129.6788140525319" height="209.7647849145231"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3749.489249130222" y="-1.77635683940025e-15"/>
@@ -12861,9 +12861,9 @@
         </params>
       </page>
       <page id="299">
-        <params mode="auto">
-          <content-rect width="3780.000000000001" x="24.00000000000001" y="24.00000000000001" height="5212.000000000001"/>
-          <content-size-mm width="160.0200000000001" height="220.6413333333334"/>
+        <params mode="manual">
+          <content-rect width="3157.45001987547" x="646.5499801245221" y="157.966451419201" height="5078.033548580797"/>
+          <content-size-mm width="133.6653841747283" height="214.9700868899205"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="4.465084115580634"/>
@@ -12906,9 +12906,9 @@
         </params>
       </page>
       <page id="304">
-        <params mode="auto">
-          <content-rect width="3420" x="244" y="276" height="4912"/>
-          <content-size-mm width="144.78" height="207.9413333333333"/>
+        <params mode="manual">
+          <content-rect width="3127.366233133737" x="244.0000000000011" y="276" height="4912.00000000002"/>
+          <content-size-mm width="132.3918372026615" height="207.9413333333342"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3683.368196419598" y="0"/>
@@ -12921,9 +12921,9 @@
         </params>
       </page>
       <page id="307">
-        <params mode="auto">
-          <content-rect width="3016" x="884" y="540" height="4624"/>
-          <content-size-mm width="127.6773333333333" height="195.7493333333333"/>
+        <params mode="manual">
+          <content-rect width="3016.000000000011" x="884.0000000000016" y="246.9854345570367" height="4917.014565442967"/>
+          <content-size-mm width="127.6773333333338" height="208.1536166037523"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="31.48406648701905"/>
@@ -12966,9 +12966,9 @@
         </params>
       </page>
       <page id="312">
-        <params mode="auto">
-          <content-rect width="2996" x="248.0000000000005" y="264" height="1756"/>
-          <content-size-mm width="126.8306666666667" height="74.33733333333333"/>
+        <params mode="manual">
+          <content-rect width="2996" x="248.0000000000005" y="264" height="4985.176269056738"/>
+          <content-size-mm width="126.8306666666667" height="211.039128723402"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3719.383328813432" y="28.26531221539151"/>
@@ -12995,9 +12995,9 @@
         </params>
       </page>
       <page id="316">
-        <params mode="auto">
-          <content-rect width="3008" x="220" y="624" height="4572"/>
-          <content-size-mm width="127.3386666666666" height="193.548"/>
+        <params mode="manual">
+          <content-rect width="3389.535985293287" x="220" y="624.0000000000034" height="4572"/>
+          <content-size-mm width="143.4903567107492" height="193.548"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3598.530863354801" y="0"/>
@@ -13025,9 +13025,9 @@
         </params>
       </page>
       <page id="320">
-        <params mode="auto">
-          <content-rect width="3284" x="216" y="356" height="4904"/>
-          <content-size-mm width="139.0226666666666" height="207.6026666666667"/>
+        <params mode="manual">
+          <content-rect width="3101.868728621911" x="216.0000000000091" y="356" height="4904"/>
+          <content-size-mm width="131.3124428449942" height="207.6026666666666"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3521.453768930063" y="-1.4210854715202e-14"/>
@@ -13040,9 +13040,9 @@
         </params>
       </page>
       <page id="323">
-        <params mode="auto">
-          <content-rect width="3760" x="184" y="212" height="4916"/>
-          <content-size-mm width="159.1733333333334" height="208.1106666666667"/>
+        <params mode="manual">
+          <content-rect width="3042.271942130015" x="901.7280578699863" y="212" height="4916.000000000002"/>
+          <content-size-mm width="128.7895122168374" height="208.1106666666668"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="9.126774964254919"/>
@@ -13055,9 +13055,9 @@
         </params>
       </page>
       <page id="324">
-        <params mode="auto">
-          <content-rect width="3080" x="243.9999999999991" y="316" height="4908"/>
-          <content-size-mm width="130.3866666666666" height="207.772"/>
+        <params mode="manual">
+          <content-rect width="3199.731814243949" x="124.2681857560556" y="316.0000000000013" height="4908"/>
+          <content-size-mm width="135.4553134696605" height="207.772"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3610.815526805241" y="0"/>
@@ -13070,9 +13070,9 @@
         </params>
       </page>
       <page id="327">
-        <params mode="auto">
-          <content-rect width="3456" x="484" y="256" height="4904"/>
-          <content-size-mm width="146.304" height="207.6026666666667"/>
+        <params mode="manual">
+          <content-rect width="3044.516735479549" x="895.4832645204551" y="256" height="4904"/>
+          <content-size-mm width="128.8845418019676" height="207.6026666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="27.18276041713361"/>
@@ -13100,9 +13100,9 @@
         </params>
       </page>
       <page id="331">
-        <params mode="auto">
-          <content-rect width="3772.000000000001" x="240.0000000000001" y="292" height="4888.000000000001"/>
-          <content-size-mm width="159.6813333333334" height="206.9253333333334"/>
+        <params mode="manual">
+          <content-rect width="3105.325897487834" x="906.6741025121864" y="291.9999999999999" height="4888.000000000001"/>
+          <content-size-mm width="131.458796326985" height="206.9253333333335"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="111.0922441717555"/>
@@ -13145,9 +13145,9 @@
         </params>
       </page>
       <page id="336">
-        <params mode="auto">
-          <content-rect width="3488" x="236" y="280" height="4900"/>
-          <content-size-mm width="147.6586666666666" height="207.4333333333334"/>
+        <params mode="manual">
+          <content-rect width="3131.580657496755" x="236" y="279.9999999999993" height="4900"/>
+          <content-size-mm width="132.5702478340293" height="207.4333333333333"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3749.020804328119" y="32.30345704210938"/>
@@ -13190,9 +13190,9 @@
         </params>
       </page>
       <page id="343">
-        <params mode="auto">
-          <content-rect width="3776" x="260" y="264" height="4904"/>
-          <content-size-mm width="159.8506666666667" height="207.6026666666667"/>
+        <params mode="manual">
+          <content-rect width="3150.772011323615" x="885.2279886763938" y="264" height="4904.000000000002"/>
+          <content-size-mm width="133.3826818126997" height="207.6026666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="27.96841881513614"/>
@@ -13220,9 +13220,9 @@
         </params>
       </page>
       <page id="347">
-        <params mode="auto">
-          <content-rect width="3944" x="28" y="84" height="5164"/>
-          <content-size-mm width="166.9626666666666" height="218.6093333333334"/>
+        <params mode="manual">
+          <content-rect width="3046.798521452897" x="925.2014785470928" y="268.2467322016352" height="4979.75326779834"/>
+          <content-size-mm width="128.9811374081727" height="210.809555003463"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="95.82739008341258"/>
@@ -13250,9 +13250,9 @@
         </params>
       </page>
       <page id="351">
-        <params mode="auto">
-          <content-rect width="3844" x="24" y="40" height="5152"/>
-          <content-size-mm width="162.7293333333334" height="218.1013333333333"/>
+        <params mode="manual">
+          <content-rect width="3053.384854426921" x="814.6151455730874" y="190.2168776588866" height="5001.783122341118"/>
+          <content-size-mm width="129.2599588374063" height="211.7421521791073"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="22.32531413882416"/>
@@ -13280,9 +13280,8 @@
         </params>
       </page>
       <page id="355">
-        <params mode="auto">
-          <content-rect width="492.0000000000001" x="235.9999999999999" y="24" height="3648"/>
-          <content-size-mm width="20.82800000000001" height="154.432"/>
+        <params mode="manual">
+          <content-rect width="0" x="0" y="0" height="0"/>
           <dependencies>
             <rotated-page-outline>
               <point x="319.84507623691" y="0"/>
@@ -13295,9 +13294,9 @@
         </params>
       </page>
       <page id="356">
-        <params mode="auto">
-          <content-rect width="3012.000000000001" x="232.0000000000019" y="596.0000000000001" height="4572.000000000001"/>
-          <content-size-mm width="127.5080000000001" height="193.5480000000001"/>
+        <params mode="manual">
+          <content-rect width="3421.745080165191" x="232.0000000000018" y="595.9999999999989" height="4572.000000000001"/>
+          <content-size-mm width="144.8538750603264" height="193.5480000000001"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3671.748303751858" y="-1.77635683940025e-15"/>
@@ -13310,9 +13309,9 @@
         </params>
       </page>
       <page id="359">
-        <params mode="auto">
-          <content-rect width="3876" x="28" y="52" height="5212"/>
-          <content-size-mm width="164.084" height="220.6413333333333"/>
+        <params mode="manual">
+          <content-rect width="3067.572419207954" x="836.4275807920453" y="170.886408940007" height="5093.113591059993"/>
+          <content-size-mm width="129.86056574647" height="215.608475354873"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="35.98168323266666"/>
@@ -13340,9 +13339,9 @@
         </params>
       </page>
       <page id="363">
-        <params mode="auto">
-          <content-rect width="3004" x="940" y="580" height="4624"/>
-          <content-size-mm width="127.1693333333334" height="195.7493333333334"/>
+        <params mode="manual">
+          <content-rect width="3004" x="940" y="269.5953748622762" height="4934.404625137717"/>
+          <content-size-mm width="127.1693333333334" height="208.8897957974967"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="59.32040271924248"/>
@@ -13385,9 +13384,9 @@
         </params>
       </page>
       <page id="368">
-        <params mode="auto">
-          <content-rect width="3368" x="228.0000000000009" y="296" height="4896"/>
-          <content-size-mm width="142.5786666666667" height="207.264"/>
+        <params mode="manual">
+          <content-rect width="3084.126731096767" x="228.0000000000009" y="296" height="4895.999999999993"/>
+          <content-size-mm width="130.5613649497631" height="207.2639999999997"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3617.141468966234" y="3.552713678800501e-15"/>
@@ -13430,9 +13429,9 @@
         </params>
       </page>
       <page id="375">
-        <params mode="auto">
-          <content-rect width="3872.000000000001" x="28.00000000000001" y="92.00000000000001" height="5224.000000000001"/>
-          <content-size-mm width="163.9146666666668" height="221.1493333333334"/>
+        <params mode="manual">
+          <content-rect width="3049.628362391566" x="850.3716376084344" y="291.6047664098143" height="5024.395233590189"/>
+          <content-size-mm width="129.1009340079097" height="212.6993982219847"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="77.02568840970319"/>
@@ -13445,9 +13444,9 @@
         </params>
       </page>
       <page id="376">
-        <params mode="auto">
-          <content-rect width="3452.000000000001" x="268.000000000001" y="292.0000000000001" height="4896.000000000001"/>
-          <content-size-mm width="146.1346666666667" height="207.2640000000001"/>
+        <params mode="manual">
+          <content-rect width="3121.05408459512" x="268.0000000000011" y="292.0000000000001" height="4896.000000000001"/>
+          <content-size-mm width="132.1246229145268" height="207.2640000000001"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3741.87542921081" y="3.971842618124334"/>
@@ -13460,9 +13459,9 @@
         </params>
       </page>
       <page id="379">
-        <params mode="auto">
-          <content-rect width="3916" x="28" y="80" height="5228"/>
-          <content-size-mm width="165.7773333333333" height="221.3186666666666"/>
+        <params mode="manual">
+          <content-rect width="3100.215637724907" x="843.7843622750954" y="207.9661744745254" height="5028.052852383557"/>
+          <content-size-mm width="131.242461997021" height="212.8542374175706"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="86.70812718093151"/>
@@ -13475,9 +13474,9 @@
         </params>
       </page>
       <page id="380">
-        <params mode="auto">
-          <content-rect width="2992" x="300.0000000000005" y="296" height="1576"/>
-          <content-size-mm width="126.6613333333333" height="66.71733333333333"/>
+        <params mode="manual">
+          <content-rect width="3181.656162105096" x="141.9531982457527" y="296" height="4966.103897628617"/>
+          <content-size-mm width="134.690110862449" height="210.2317316662781"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3735.523816804025" y="19.69547020607585"/>
@@ -13490,9 +13489,8 @@
         </params>
       </page>
       <page id="383">
-        <params mode="auto">
-          <content-rect width="44" x="360" y="1512" height="476"/>
-          <content-size-mm width="1.862666666666668" height="20.15066666666667"/>
+        <params mode="manual">
+          <content-rect width="0" x="0" y="0" height="0"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="0"/>
@@ -13520,9 +13518,9 @@
         </params>
       </page>
       <page id="387">
-        <params mode="auto">
-          <content-rect width="3008" x="976" y="536" height="4620"/>
-          <content-size-mm width="127.3386666666667" height="195.58"/>
+        <params mode="manual">
+          <content-rect width="3008" x="976" y="218.3978536785168" height="4937.602146321496"/>
+          <content-size-mm width="127.3386666666666" height="209.02515752761"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="45.9602603797722"/>
@@ -13535,9 +13533,9 @@
         </params>
       </page>
       <page id="388">
-        <params mode="auto">
-          <content-rect width="3372" x="211.9999999999991" y="276" height="4900"/>
-          <content-size-mm width="142.748" height="207.4333333333333"/>
+        <params mode="manual">
+          <content-rect width="3071.922109722312" x="211.9999999999991" y="276" height="4900"/>
+          <content-size-mm width="130.0447026449112" height="207.4333333333333"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3605.262658392224" y="0"/>
@@ -13565,9 +13563,9 @@
         </params>
       </page>
       <page id="392">
-        <params mode="auto">
-          <content-rect width="3376" x="208" y="268" height="4900"/>
-          <content-size-mm width="142.9173333333334" height="207.4333333333333"/>
+        <params mode="manual">
+          <content-rect width="3068.917391304344" x="208.0000000000034" y="268" height="4900"/>
+          <content-size-mm width="129.9175028985506" height="207.4333333333333"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3605.416574759842" y="0"/>
@@ -13580,9 +13578,9 @@
         </params>
       </page>
       <page id="395">
-        <params mode="auto">
-          <content-rect width="3852" x="28" y="72" height="5208"/>
-          <content-size-mm width="163.068" height="220.472"/>
+        <params mode="manual">
+          <content-rect width="3080.087671090762" x="799.9123289092549" y="247.0728993402442" height="4953.348510050559"/>
+          <content-size-mm width="130.3903780761756" height="209.6917535921403"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="58.46901770211167"/>
@@ -13595,9 +13593,9 @@
         </params>
       </page>
       <page id="396">
-        <params mode="auto">
-          <content-rect width="3444" x="256" y="268" height="4904"/>
-          <content-size-mm width="145.796" height="207.6026666666667"/>
+        <params mode="manual">
+          <content-rect width="3087.340113577446" x="256" y="268" height="4904"/>
+          <content-size-mm width="130.6973981414452" height="207.6026666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3724.911038762867" y="36.04674706979207"/>
@@ -13610,9 +13608,9 @@
         </params>
       </page>
       <page id="399">
-        <params mode="auto">
-          <content-rect width="3852" x="132" y="112" height="5188"/>
-          <content-size-mm width="163.068" height="219.6253333333333"/>
+        <params mode="manual">
+          <content-rect width="3009.98034615702" x="974.0196538429755" y="240.3077567760716" height="4963.461425641867"/>
+          <content-size-mm width="127.4225013206472" height="210.1198670188391"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="101.8364152560081"/>
@@ -13625,9 +13623,9 @@
         </params>
       </page>
       <page id="400">
-        <params mode="auto">
-          <content-rect width="3360.000000000001" x="268.000000000001" y="276.0000000000001" height="4900.000000000001"/>
-          <content-size-mm width="142.2400000000001" height="207.4333333333335"/>
+        <params mode="manual">
+          <content-rect width="3052.698628407826" x="268.0000000000009" y="276.0000000000001" height="4900.000000000016"/>
+          <content-size-mm width="129.230908602598" height="207.4333333333341"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3651.861736217015" y="3.873652872014794"/>
@@ -13640,9 +13638,9 @@
         </params>
       </page>
       <page id="403">
-        <params mode="auto">
-          <content-rect width="3876.000000000001" x="28.00000000000001" y="72" height="5192.000000000001"/>
-          <content-size-mm width="164.0840000000001" height="219.7946666666668"/>
+        <params mode="manual">
+          <content-rect width="3056.940870276441" x="847.0591297235446" y="262.8487292559716" height="4953.439088430024"/>
+          <content-size-mm width="129.4104968417027" height="209.695588076871"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="54.36642439960271"/>
@@ -13655,9 +13653,9 @@
         </params>
       </page>
       <page id="404">
-        <params mode="auto">
-          <content-rect width="3468" x="244" y="284" height="4892"/>
-          <content-size-mm width="146.812" height="207.0946666666667"/>
+        <params mode="manual">
+          <content-rect width="3064.096880686479" x="244" y="284" height="4892"/>
+          <content-size-mm width="129.7134346157276" height="207.0946666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3736.276235274162" y="31.77848623411987"/>
@@ -13685,9 +13683,9 @@
         </params>
       </page>
       <page id="408">
-        <params mode="auto">
-          <content-rect width="3048" x="212.0000000000005" y="604" height="4568"/>
-          <content-size-mm width="129.032" height="193.3786666666667"/>
+        <params mode="manual">
+          <content-rect width="3454.244614679556" x="211.9999999999905" y="604" height="4568"/>
+          <content-size-mm width="146.2296886881012" height="193.3786666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3718.447473461376" y="64.07814140918269"/>
@@ -13715,9 +13713,9 @@
         </params>
       </page>
       <page id="412">
-        <params mode="auto">
-          <content-rect width="3392" x="232.0000000000009" y="56.00000000000001" height="5096"/>
-          <content-size-mm width="143.5946666666667" height="215.7306666666667"/>
+        <params mode="manual">
+          <content-rect width="3065.930018018516" x="232.0000000000091" y="238.9173069652178" height="4913.082693034797"/>
+          <content-size-mm width="129.7910374294505" height="207.9871673384731"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3646.730090547658" y="55.15274614066552"/>
@@ -13730,39 +13728,39 @@
         </params>
       </page>
       <page id="415">
-        <params mode="auto">
-          <content-rect width="3008" x="976" y="528" height="4612"/>
-          <content-size-mm width="127.3386666666667" height="195.2413333333334"/>
+        <params mode="manual">
+          <content-rect width="3008" x="980" y="215.9607704557974" height="4928.039229544197"/>
+          <content-size-mm width="127.3386666666667" height="208.6203273840377"/>
           <dependencies>
             <rotated-page-outline>
-              <point x="0" y="13.10170268302982"/>
-              <point x="4003.57113850433" y="0"/>
-              <point x="3950.229016743283" y="5433.203653996761"/>
-              <point x="17.77941918995916" y="5446.072611150446"/>
-              <point x="0" y="13.10170268302982"/>
+              <point x="0" y="18.72842788174505"/>
+              <point x="4292.212258727749" y="0"/>
+              <point x="4244.796873320884" y="5433.258608697403"/>
+              <point x="23.70585934402812" y="5451.676709637495"/>
+              <point x="0" y="18.72842788174505"/>
             </rotated-page-outline>
           </dependencies>
         </params>
       </page>
       <page id="416">
-        <params mode="auto">
-          <content-rect width="3324" x="516" y="248" height="4896"/>
-          <content-size-mm width="140.716" height="207.264"/>
+        <params mode="manual">
+          <content-rect width="3091.782608695652" x="224" y="248" height="4896"/>
+          <content-size-mm width="130.885463768116" height="207.264"/>
           <dependencies>
             <rotated-page-outline>
-              <point x="3862.529345645981" y="0"/>
-              <point x="71.12192178032774" y="0"/>
+              <point x="3573.868803896472" y="0"/>
+              <point x="71.12192178032819" y="0"/>
               <point x="0" y="5433"/>
-              <point x="3862.529345645981" y="5433"/>
-              <point x="3862.529345645981" y="0"/>
+              <point x="3573.868803896472" y="5433"/>
+              <point x="3573.868803896472" y="0"/>
             </rotated-page-outline>
           </dependencies>
         </params>
       </page>
       <page id="419">
-        <params mode="auto">
-          <content-rect width="3908" x="28" y="48" height="5192"/>
-          <content-size-mm width="165.4386666666667" height="219.7946666666667"/>
+        <params mode="manual">
+          <content-rect width="3052.642341456538" x="883.3576585434607" y="222.2395230366309" height="4946.480672084746"/>
+          <content-size-mm width="129.2285257883268" height="209.4010151182543"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="31.94342729906376"/>
@@ -13775,9 +13773,9 @@
         </params>
       </page>
       <page id="420">
-        <params mode="auto">
-          <content-rect width="3412" x="224" y="236" height="4900"/>
-          <content-size-mm width="144.4413333333333" height="207.4333333333333"/>
+        <params mode="manual">
+          <content-rect width="3073.421739130435" x="224" y="236" height="4900"/>
+          <content-size-mm width="130.1081869565218" height="207.4333333333333"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3659.004369043746" y="0"/>
@@ -13790,9 +13788,9 @@
         </params>
       </page>
       <page id="423">
-        <params mode="auto">
-          <content-rect width="3884.000000000001" x="96.00000000000003" y="252.0000000000001" height="5000.000000000001"/>
-          <content-size-mm width="164.4226666666668" height="211.6666666666667"/>
+        <params mode="manual">
+          <content-rect width="3065.443308131699" x="914.5566918682975" y="252.0000000000001" height="5000.000000000001"/>
+          <content-size-mm width="129.7704333775753" height="211.6666666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="50.92623543269577"/>
@@ -13820,9 +13818,9 @@
         </params>
       </page>
       <page id="427">
-        <params mode="auto">
-          <content-rect width="3856" x="28" y="84" height="5212"/>
-          <content-size-mm width="163.2373333333333" height="220.6413333333334"/>
+        <params mode="manual">
+          <content-rect width="3066.276449228913" x="817.7235507711032" y="251.5171168302319" height="5044.482883169768"/>
+          <content-size-mm width="129.8057030173574" height="213.5497753875202"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="71.96131092294482"/>
@@ -13835,9 +13833,9 @@
         </params>
       </page>
       <page id="428">
-        <params mode="auto">
-          <content-rect width="3016" x="276.0000000000009" y="564" height="4624"/>
-          <content-size-mm width="127.6773333333333" height="195.7493333333334"/>
+        <params mode="manual">
+          <content-rect width="3047.817027841253" x="276.0000000000009" y="269.6924924684112" height="4918.30750753159"/>
+          <content-size-mm width="129.024254178613" height="208.2083511521706"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3777.953937810344" y="56.07083980024917"/>
@@ -13850,39 +13848,39 @@
         </params>
       </page>
       <page id="431">
-        <params mode="auto">
-          <content-rect width="3880" x="28" y="60" height="5196"/>
-          <content-size-mm width="164.2533333333334" height="219.964"/>
+        <params mode="manual">
+          <content-rect width="3062.205276600889" x="845.7947233991147" y="254.5541103065898" height="5005.445889693415"/>
+          <content-size-mm width="129.6333567094377" height="211.8972093303545"/>
           <dependencies>
             <rotated-page-outline>
-              <point x="0" y="42.68974023851526"/>
-              <point x="3913.351885175568" y="0"/>
-              <point x="3901.497855881858" y="5433.452568095836"/>
-              <point x="59.26366108789284" y="5475.366503904329"/>
-              <point x="0" y="42.68974023851526"/>
+              <point x="0" y="45.75390764864433"/>
+              <point x="4194.242919975154" y="0"/>
+              <point x="4182.388893818855" y="5433.452568061611"/>
+              <point x="59.26366108789284" y="5478.430671314458"/>
+              <point x="0" y="45.75390764864433"/>
             </rotated-page-outline>
           </dependencies>
         </params>
       </page>
       <page id="432">
-        <params mode="auto">
-          <content-rect width="3412" x="484.0000000000005" y="292" height="4900"/>
-          <content-size-mm width="144.4413333333333" height="207.4333333333333"/>
+        <params mode="manual">
+          <content-rect width="3028.761896472339" x="204" y="292" height="4900"/>
+          <content-size-mm width="128.2175869506624" height="207.4333333333333"/>
           <dependencies>
             <rotated-page-outline>
-              <point x="3916.893893136329" y="0"/>
-              <point x="35.56175049049671" y="25.40362220761863"/>
-              <point x="0" y="5458.752744955003"/>
-              <point x="3952.452541112952" y="5432.883634181214"/>
-              <point x="3916.893893136329" y="0"/>
+              <point x="3641.942564743911" y="0"/>
+              <point x="41.48858949501118" y="19.63762486154791"/>
+              <point x="0" y="5452.944723144614"/>
+              <point x="3671.574836034129" y="5432.919190315478"/>
+              <point x="3641.942564743911" y="0"/>
             </rotated-page-outline>
           </dependencies>
         </params>
       </page>
       <page id="435">
-        <params mode="auto">
-          <content-rect width="3908.000000000001" x="28.00000000000001" y="64" height="5212.000000000001"/>
-          <content-size-mm width="165.4386666666668" height="220.6413333333334"/>
+        <params mode="manual">
+          <content-rect width="3081.822887003177" x="854.1771129968099" y="230.8242247397405" height="5045.175775260257"/>
+          <content-size-mm width="130.4638355498012" height="213.5791078193509"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="48.75849945568591"/>
@@ -13895,9 +13893,9 @@
         </params>
       </page>
       <page id="436">
-        <params mode="auto">
-          <content-rect width="3408" x="340.0000000000005" y="336" height="4892"/>
-          <content-size-mm width="144.272" height="207.0946666666667"/>
+        <params mode="manual">
+          <content-rect width="3083.697670021721" x="340.0000000000005" y="336.0000000000001" height="4892"/>
+          <content-size-mm width="130.5432013642529" height="207.0946666666667"/>
           <dependencies>
             <rotated-page-outline>
               <point x="3766.884101725049" y="0"/>
@@ -13910,9 +13908,9 @@
         </params>
       </page>
       <page id="439">
-        <params mode="auto">
-          <content-rect width="3888" x="28" y="40" height="5220"/>
-          <content-size-mm width="164.592" height="220.98"/>
+        <params mode="manual">
+          <content-rect width="3034.058707925096" x="881.9412920748928" y="221.8578677566901" height="5038.142132243292"/>
+          <content-size-mm width="128.4418186354957" height="213.281350264966"/>
           <dependencies>
             <rotated-page-outline>
               <point x="0" y="22.81684238522546"/>
@@ -19156,6 +19154,27 @@
             <bw thresholdAdj="0"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4416" height="5548"/>
+            <content-rect width="0" x="2208" y="118" height="0"/>
+            <partial-xform>
+              <m11>1</m11>
+              <m12>0</m12>
+              <m21>0</m21>
+              <m22>1</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="bw">
+              <color-or-grayscale whiteMargins="0" normalizeIllumination="0"/>
+              <bw thresholdAdj="0"/>
+            </color-params>
+          </image>
+          <file size="3550" mtime="1445872397"/>
+          <speckles size="3550" mtime="1445872397"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="60">
         <zones/>
