@@ -1117,7 +1117,7 @@
     <page imageId="378" subPage="left" id="379"/>
     <page imageId="378" subPage="right" id="380"/>
     <page imageId="382" subPage="left" id="383"/>
-    <page imageId="382" subPage="right" selected="selected" id="384"/>
+    <page imageId="382" subPage="right" id="384"/>
     <page imageId="386" subPage="left" id="387"/>
     <page imageId="386" subPage="right" id="388"/>
     <page imageId="390" subPage="left" id="391"/>
@@ -1136,7 +1136,7 @@
     <page imageId="414" subPage="right" id="416"/>
     <page imageId="418" subPage="left" id="419"/>
     <page imageId="418" subPage="right" id="420"/>
-    <page imageId="422" subPage="left" id="423"/>
+    <page imageId="422" subPage="left" selected="selected" id="423"/>
     <page imageId="422" subPage="right" id="424"/>
     <page imageId="426" subPage="left" id="427"/>
     <page imageId="426" subPage="right" id="428"/>
@@ -25320,6 +25320,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3008" x="568" y="806" height="4938"/>
+            <partial-xform>
+              <m11>0.9999405050001497</m11>
+              <m12>-0.01090809149418237</m12>
+              <m21>0.01090809149418237</m21>
+              <m22>0.9999405050001497</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="617956" mtime="1445895818"/>
+          <automask size="6632" mtime="1445895818"/>
+          <speckles size="3638" mtime="1445895818"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="388">
         <zones/>
@@ -25331,6 +25353,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3072" x="536" y="843" height="4900"/>
+            <partial-xform>
+              <m11>0.9999904807207345</m11>
+              <m12>-0.004363309284746571</m12>
+              <m21>0.004363309284746571</m21>
+              <m22>0.9999904807207345</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="838440" mtime="1445895826"/>
+          <automask size="13804" mtime="1445895826"/>
+          <speckles size="3654" mtime="1445895826"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="391">
         <zones/>
@@ -25342,6 +25386,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3032" x="556" y="839" height="4904"/>
+            <partial-xform>
+              <m11>0.9999976201773518</m11>
+              <m12>-0.00218165983433677</m12>
+              <m21>0.00218165983433677</m21>
+              <m22>0.9999976201773518</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="336890" mtime="1445895840"/>
+          <automask size="3638" mtime="1445895840"/>
+          <speckles size="3638" mtime="1445895840"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="392">
         <zones/>
@@ -25353,6 +25419,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3069" x="538" y="843" height="4900"/>
+            <partial-xform>
+              <m11>1</m11>
+              <m12>0</m12>
+              <m21>0</m21>
+              <m22>1</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="1223380" mtime="1445896097"/>
+          <automask size="10824" mtime="1445896097"/>
+          <speckles size="3638" mtime="1445896097"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="395">
         <zones/>
@@ -25364,6 +25452,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3080" x="532" y="790" height="4953"/>
+            <partial-xform>
+              <m11>0.9998994541381914</m11>
+              <m12>-0.01418032489567657</m12>
+              <m21>0.01418032489567657</m21>
+              <m22>0.9998994541381914</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="638368" mtime="1445896104"/>
+          <automask size="11162" mtime="1445896104"/>
+          <speckles size="3638" mtime="1445896104"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="396">
         <zones/>
@@ -25375,6 +25485,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3087" x="528" y="839" height="4904"/>
+            <partial-xform>
+              <m11>0.999951808959328</m11>
+              <m12>0.009817319337149617</m12>
+              <m21>-0.009817319337149617</m21>
+              <m22>0.999951808959328</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="638824" mtime="1445896111"/>
+          <automask size="9778" mtime="1445896111"/>
+          <speckles size="4600" mtime="1445896111"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="399">
         <zones/>
@@ -25386,6 +25518,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3010" x="567" y="780" height="4963"/>
+            <partial-xform>
+              <m11>0.9997120551651237</m11>
+              <m12>-0.02399597377737899</m12>
+              <m21>0.02399597377737899</m21>
+              <m22>0.9997120551651237</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="737890" mtime="1445896118"/>
+          <automask size="7190" mtime="1445896118"/>
+          <speckles size="4680" mtime="1445896118"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="400">
         <zones/>
@@ -25397,6 +25551,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3053" x="546" y="843" height="4900"/>
+            <partial-xform>
+              <m11>0.999999405044161</m11>
+              <m12>0.0010908305661644</m12>
+              <m21>-0.0010908305661644</m21>
+              <m22>0.999999405044161</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="3645966" mtime="1445896153"/>
+          <automask size="56906" mtime="1445896153"/>
+          <speckles size="4604" mtime="1445896153"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="403">
         <zones/>
@@ -25408,6 +25584,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3057" x="543" y="790" height="4953"/>
+            <partial-xform>
+              <m11>0.999914327574007</m11>
+              <m12>-0.01308959557134444</m12>
+              <m21>0.01308959557134444</m21>
+              <m22>0.999914327574007</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="248312" mtime="1445896158"/>
+          <automask size="3638" mtime="1445896158"/>
+          <speckles size="3638" mtime="1445896158"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="404">
         <zones/>
@@ -25419,6 +25617,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3064" x="540" y="851" height="4892"/>
+            <partial-xform>
+              <m11>0.9999619230641713</m11>
+              <m12>0.008726535498373935</m12>
+              <m21>-0.008726535498373935</m21>
+              <m22>0.9999619230641713</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="686014" mtime="1445896165"/>
+          <automask size="7470" mtime="1445896165"/>
+          <speckles size="3656" mtime="1445896165"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="407">
         <zones/>
@@ -25430,6 +25650,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3100" x="522" y="847" height="4896"/>
+            <partial-xform>
+              <m11>1</m11>
+              <m12>0</m12>
+              <m21>0</m21>
+              <m22>1</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="1967276" mtime="1445896170"/>
+          <automask size="21540" mtime="1445896170"/>
+          <speckles size="4842" mtime="1445896170"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="408">
         <zones/>
@@ -25441,6 +25683,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3454" x="345" y="1175" height="4568"/>
+            <partial-xform>
+              <m11>0.9998476951563913</m11>
+              <m12>0.01745240643728351</m12>
+              <m21>-0.01745240643728351</m21>
+              <m22>0.9998476951563913</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="1813390" mtime="1445896175"/>
+          <automask size="9772" mtime="1445896175"/>
+          <speckles size="3646" mtime="1445896175"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="411">
         <zones/>
@@ -25452,6 +25716,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3112" x="516" y="843" height="4900"/>
+            <partial-xform>
+              <m11>0.9999619230641713</m11>
+              <m12>-0.008726535498373935</m12>
+              <m21>0.008726535498373935</m21>
+              <m22>0.9999619230641713</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="740120" mtime="1445896181"/>
+          <automask size="6588" mtime="1445896181"/>
+          <speckles size="3638" mtime="1445896181"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="412">
         <zones/>
@@ -25463,6 +25749,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3066" x="539" y="830" height="4913"/>
+            <partial-xform>
+              <m11>0.9998833909103383</m11>
+              <m12>0.01527103734667451</m12>
+              <m21>-0.01527103734667451</m21>
+              <m22>0.9998833909103383</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="807578" mtime="1445896198"/>
+          <automask size="14218" mtime="1445896198"/>
+          <speckles size="3652" mtime="1445896198"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="415">
         <zones/>
@@ -25474,6 +25782,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3008" x="568" y="815" height="4928"/>
+            <partial-xform>
+              <m11>0.9999904807207345</m11>
+              <m12>-0.004363309284746571</m12>
+              <m21>0.004363309284746571</m21>
+              <m22>0.9999904807207345</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="6984600" mtime="1445896207"/>
+          <automask size="17112" mtime="1445896207"/>
+          <speckles size="3638" mtime="1445896207"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="416">
         <zones/>
@@ -25485,6 +25815,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3092" x="526" y="847" height="4896"/>
+            <partial-xform>
+              <m11>1</m11>
+              <m12>0</m12>
+              <m21>0</m21>
+              <m22>1</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="316050" mtime="1445896216"/>
+          <automask size="3638" mtime="1445896216"/>
+          <speckles size="4608" mtime="1445896216"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="419">
         <zones/>
@@ -25496,6 +25848,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3053" x="546" y="797" height="4946"/>
+            <partial-xform>
+              <m11>0.9999708473026447</m11>
+              <m12>-0.007635741275791754</m12>
+              <m21>0.007635741275791754</m21>
+              <m22>0.9999708473026447</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="212886" mtime="1445896222"/>
+          <automask size="5536" mtime="1445896222"/>
+          <speckles size="4938" mtime="1445896222"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="420">
         <zones/>
@@ -25507,6 +25881,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3073" x="535" y="843" height="4900"/>
+            <partial-xform>
+              <m11>1</m11>
+              <m12>0</m12>
+              <m21>0</m21>
+              <m22>1</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="262754" mtime="1445896270"/>
+          <automask size="3638" mtime="1445896270"/>
+          <speckles size="3648" mtime="1445896270"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="423">
         <zones/>
@@ -25518,6 +25914,28 @@
             <bw thresholdAdj="-18"/>
           </color-params>
         </params>
+        <output-params>
+          <image depthPerception="2" despeckleLevel="cautious" dewarpingMode="off">
+            <size width="4144" height="6192"/>
+            <content-rect width="3065" x="539" y="743" height="5000"/>
+            <partial-xform>
+              <m11>0.9999280112000872</m11>
+              <m12>-0.01199885067154968</m12>
+              <m21>0.01199885067154968</m21>
+              <m22>0.9999280112000872</m22>
+            </partial-xform>
+            <dpi vertical="600" horizontal="600"/>
+            <color-params colorMode="mixed">
+              <color-or-grayscale whiteMargins="1" normalizeIllumination="0"/>
+              <bw thresholdAdj="-18"/>
+            </color-params>
+          </image>
+          <file size="273362" mtime="1445896418"/>
+          <automask size="3638" mtime="1445896418"/>
+          <speckles size="3638" mtime="1445896418"/>
+          <zones/>
+          <fill-zones/>
+        </output-params>
       </page>
       <page id="424">
         <zones/>
