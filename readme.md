@@ -21,7 +21,7 @@ Alebo co sa ma vsetko spravit. :)
 - [x] oznacenie obsahu strany (bez cmuh a okrajov),
 - [x] nastavenie bielych okrajov okolo vybraneho obsahu strany,
 - [x] vytvorenie  *.tif obrazkov opravenych podla vyssie uvedenych zmien,
-- [x] vytvorenie .pdf subory z *.tif suborov;
+- [x] vytvorenie [.pdf suborov](pdf_output/) z *.tif suborov;
 - [ ] pridanie metadat do .pdf subory pomocou programu `exiftool`;
 - [ ] opravenie tabuliek,
 - [ ] ocr-knutie *.tif suborov,
