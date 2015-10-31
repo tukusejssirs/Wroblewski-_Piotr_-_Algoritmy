@@ -21,7 +21,9 @@ Alebo co sa ma vsetko spravit. :)
 - [x] oznacenie obsahu strany (bez cmuh a okrajov),
 - [x] nastavenie bielych okrajov okolo vybraneho obsahu strany,
 - [x] vytvorenie [*.tif obrazkov](scantailor/out) opravenych podla vyssie uvedenych zmien,
-- [x] vytvorenie [.pdf suboru](pdf_output) z *.tif suborov;
+- [x] vytvorenie [.pdf suboru](pdf_output) z *.tif suborov:
+  - musel som znacne znizit kvalitu oproti obrazkom *.tif spracovanym programom `scantailor`, aby to malo do 100 MB, aby som to mohol uploadnut na github, no stale je to citatelne;
+  - na vytlacenie knihy aj tak odporucam pouzit [obrazky *.tif](scantailor/out) kvoli vyssej kvalite, hoci maju cca 499 MB;
 - [ ] pridanie metadat do .pdf subory pomocou programu `exiftool`;
 - [ ] opravenie tabuliek,
 - [ ] ocr-knutie *.tif suborov,
