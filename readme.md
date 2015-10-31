@@ -15,13 +15,13 @@ Do pozornosti ju davam hlavne Vam, @siduska, @diduska, @zorvar, @norton1119, @ja
 
 Alebo co sa ma vsetko spravit. :)
 
-- [x] nascannovanie knihy,
+- [x] nascannovanie knihy ([originalne obrazky](scan_orig_jpg)),
 - [x] oddelenie lavej a pravej strany z nascannovanej dvojstranky,
 - [x] korekcia sklonu textu na strane,
 - [x] oznacenie obsahu strany (bez cmuh a okrajov),
 - [x] nastavenie bielych okrajov okolo vybraneho obsahu strany,
-- [x] vytvorenie  *.tif obrazkov opravenych podla vyssie uvedenych zmien,
-- [x] vytvorenie [.pdf suborov](pdf_output/) z *.tif suborov;
+- [x] vytvorenie [*.tif obrazkov](scantailor/out) opravenych podla vyssie uvedenych zmien,
+- [x] vytvorenie [.pdf suboru](pdf_output) z *.tif suborov;
 - [ ] pridanie metadat do .pdf subory pomocou programu `exiftool`;
 - [ ] opravenie tabuliek,
 - [ ] ocr-knutie *.tif suborov,
