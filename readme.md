@@ -19,9 +19,9 @@ Alebo co sa ma vsetko spravit. :)
 - [x] oddelenie lavej a pravej strany z nascannovanej dvojstranky,
 - [x] korekcia sklonu textu na strane,
 - [x] oznacenie obsahu strany (bez cmuh a okrajov),
-- [ ] nastavenie bielych okrajov okolo vybraneho obsahu strany,
-- [ ] vytvorenie  *.tif obrazkov opravenych podla vyssie uvedenych zmien,
-- [ ] vytvorenie .pdf subory z *.tif suborov;
+- [x] nastavenie bielych okrajov okolo vybraneho obsahu strany,
+- [x] vytvorenie  *.tif obrazkov opravenych podla vyssie uvedenych zmien,
+- [x] vytvorenie .pdf subory z *.tif suborov;
 - [ ] pridanie metadat do .pdf subory pomocou programu `exiftool`;
 - [ ] opravenie tabuliek,
 - [ ] ocr-knutie *.tif suborov,
